@@ -8,7 +8,7 @@ The popup will show the percentage match of the signatures.
 The signatures are compared using structural_similarity in skimage.metrics package.
 
 
-## Prerequisites
+## Inventory
 1. Python >=3.6
 2. OpenCV
 3. Scipy
@@ -27,6 +27,4 @@ https://user-images.githubusercontent.com/51584907/140640842-b7cd3fe2-493a-469b-
 
 
 
-## Please open an issue if
-* you have any suggestion to improve this project
-* you noticed any problem or error
+
